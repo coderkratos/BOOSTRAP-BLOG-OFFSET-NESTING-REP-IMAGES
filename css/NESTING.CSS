@@ -1,0 +1,16 @@
+.col1{
+    background-color: aqua;
+    color: white;
+}
+.col2{
+    background-color: aquamarine;
+    color: white;
+}
+.nestedcol1{
+    background-color: rgb(250, 228, 215);
+    color: white;
+}
+.nestedcol2{
+    background-color: rgba(255, 228, 196, 0.639);
+    color: white;
+}
